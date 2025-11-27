@@ -2,6 +2,7 @@
 title: "Research Areas"
 type: landing
 date: 2024-01-01
+---
 
 sections:
   - block: markdown
@@ -36,4 +37,3 @@ sections:
         tags: ['general-research']
     design:
       view: citation
-    ---
