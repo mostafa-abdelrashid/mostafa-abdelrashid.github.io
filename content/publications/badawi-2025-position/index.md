@@ -2,7 +2,7 @@
 title: 'Position: Beyond Assistance-Reimagining LLMs as Ethical and Adaptive Co-Creators
   in Mental Health Care'
 authors:
-- Abeer Badawi
+- admin
 - Md Tahmid Rahman Laskar
 - Jimmy Xiangji Huang
 - Shaina Raza
@@ -16,8 +16,7 @@ publication: '*International Conference on Machine Learning (ICML)*'
 links:
 - name: URL
   url: https://arxiv.org/abs/2503.16456
-image:
-  filename: featured.jpg  # or whatever your file is named
+
 
 featured: true
 ---
